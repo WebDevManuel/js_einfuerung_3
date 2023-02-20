@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input {
+    display: block;
+}
+
+form,
+section {
+    padding: 15px;
+}
+
+.darkmode {
+    color: silver;
+    background-color: indigo;
+}
